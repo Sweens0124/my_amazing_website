@@ -1,3 +1,15 @@
 body {
-  background: blue;
+  text-align: center;
+  background: white
+}
+h1 {
+  display: inline-block;
+  background-image: linear-gradient(cyan, blue);
+  border-radius: 20px;
+  padding: 0.2em 0.2em 0.2em 0.2em;
+}
+.img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
